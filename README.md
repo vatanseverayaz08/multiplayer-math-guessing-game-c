@@ -32,6 +32,15 @@ While building this project, I practiced:
 - How to count attempts using variables  
 - How to validate user input  
 - How to structure a simple game in C
+  
+---
+
+## Features
+- Two player system
+- Turn-based gameplay
+- Random number generation
+- Math challenge before guessing
+- Quit option (-1)
 
 ---
 
