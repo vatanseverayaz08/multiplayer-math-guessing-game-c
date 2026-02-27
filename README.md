@@ -41,10 +41,10 @@ While building this project, I practiced:
 gcc multiplayer_math_guessing_game_c.c -o game 
 
 Run the game:
-Linux / macOS:
-./game
-Windows:
-game.exe
+- Linux / macOS:
+  ./game
+- Windows:
+  game.exe
 
 ---
 
