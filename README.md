@@ -38,7 +38,7 @@ While building this project, I practiced:
 ## How to Compile and Run
 
 **Compile using GCC:**
-gcc multiplayer_math_guessing_game_c.c -o game 
+- gcc multiplayer_math_guessing_game_c.c -o game 
 
 Run the game:
 - Linux / macOS:
