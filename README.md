@@ -50,11 +50,11 @@ game.exe
 
 ## Future Improvements
 
--Add difficulty levels
--Add more math operations (+, -, /)
--Limit maximum rounds
--Improve input validation
--Convert code into functions for better structure
+- Add difficulty levels
+- Add more math operations (+, -, /)
+- Limit maximum rounds
+- Improve input validation
+- Convert code into functions for better structure
 
 ## Author
 Ayaz Vatansever
